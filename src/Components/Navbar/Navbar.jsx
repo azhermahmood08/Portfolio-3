@@ -12,6 +12,7 @@ const Navbar = () => {
       <li>sd</li>
       <a href="">Hello</a>
       <h1></h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, at.</p>
     </div>
   );
 };

@@ -7,9 +7,11 @@ const Navbar = () => {
     <div className="navbar">
       <img src={logo} alt="" />
       <li>a</li>
-      <li>s</li>
+      <li>sww</li>
       <li>s</li>
       <li>sd</li>
+      <a href="">Hello</a>
+      <h1></h1>
     </div>
   );
 };
